@@ -1,21 +1,57 @@
 import { Link } from "react-router-dom";
 import { motion, AnimatePresence } from 'framer-motion';
+import { useContext } from "react";
+import { AuthContext } from "../../providers/AuthProvider";
+import Swal from "sweetalert2";
 
 
+const NavBar = () => {
+
+    const { user, logOut } = useContext(AuthContext);
+
+    const handleLogOut = () => {
+        Swal.fire({
+            title: 'Are you sure?',
+            text: "logout now!",
+            icon: 'warning',
+            showCancelButton: true,
+            confirmButtonColor: '#3085d6',
+            cancelButtonColor: '#d33',
+            confirmButtonText: 'Yes, logout!'
+          }).then((result) => {
+            if (result.isConfirmed) {
+        
+                logOut()
+                .then(() => { })
+                .catch(error => console.log(error));
+        
+                Swal.fire(
+                'logout!',
+                'Your websied has been logout.',
+                'success'
+              )
+            }
+          })
 
 
+        
+    }
 
-const navOptions = <>
+    const navOptions = <>
     <li><Link to="/">Home</Link></li>
     <li><Link to="/">Our Menu</Link></li>
     <li><Link to="/">Order Food</Link></li>
     <li><Link to="/">Secret</Link></li>
     <li><Link to="">Dashboard</Link></li>
-    <li><Link to="/login">Login</Link></li>
+    {
+            user ? <>
+                <button onClick={handleLogOut} className="btn btn-ghost">LogOut</button>
+            </> : <>
+                <li><Link to="/login">Login</Link></li>
+            </>
+        }
 
 </>
-const NavBar = () => {
-
 
     return (
         <>

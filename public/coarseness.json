@@ -1,0 +1,181 @@
+[{
+        "courseName": "Contemporary Dance Workshop",
+        "instructor": "Emily Johnson",
+        "description": "Join our Contemporary Dance Workshop at the Summer Camp! Learn modern dance techniques, express yourself through movement, and improve your flexibility and grace. Suitable for all skill levels.",
+        "schedule": "Mondays and Wednesdays, 10:00 AM - 12:00 PM",
+        "location": "Dance Studio A",
+        "fee": "$150 for the 4-week course",
+        "photoUrl": "https://i.ibb.co/hVBMgmw/download-1.jpg"
+    },
+    {
+        "courseName": "Hip-Hop Dance Crew",
+        "instructor": "Michael Smith",
+        "description": "Become a part of our Hip-Hop Dance Crew! Get ready to groove, pop, and lock to the latest beats. Develop your dance style, learn choreography, and perform with the crew at the Summer Camp talent show.",
+        "schedule": "Tuesdays and Thursdays, 2:00 PM - 4:00 PM",
+        "location": "Dance Studio B",
+        "fee": "$120 for the 4-week course",
+        "photoUrl": "https://i.ibb.co/jv82hzf/download.jpg"
+    },
+    {
+        "courseName": "Ballet Basics for Beginners",
+        "instructor": "Sophia Martinez",
+        "description": "Explore the elegance of ballet in our beginner's class. Discover the fundamentals of ballet, including posture, positions, and graceful movements. No prior experience required.",
+        "schedule": "Fridays, 11:00 AM - 1:00 PM",
+        "location": "Dance Studio C",
+        "fee": "$100 for the 4-week course",
+        "photoUrl": "https://i.ibb.co/NrzJJF4/images-1.jpg"
+    },
+    {
+        "courseName": "Jazz Fusion Intensive",
+        "instructor": "David Brown",
+        "description": "Dive into the world of jazz fusion with our intensive course. Learn complex choreography, improve your technique, and perform a captivating routine at the Summer Camp showcase.",
+        "schedule": "Mondays and Wednesdays, 2:00 PM - 4:00 PM",
+        "location": "Dance Studio D",
+        "fee": "$160 for the 4-week course",
+        "photoUrl": "https://i.ibb.co/vcqDzH1/images-2.jpg"
+    },
+    {
+        "courseName": "Salsa and Latin Rhythms",
+        "instructor": "Maria Rodriguez",
+        "description": "Spice up your dance moves with our Salsa and Latin Rhythms class. Learn the art of salsa dancing and other Latin styles. Partners and singles welcome.",
+        "schedule": "Thursdays, 6:00 PM - 8:00 PM",
+        "location": "Dance Studio E",
+        "fee": "$140 for the 4-week course",
+        "photoUrl": "https://i.ibb.co/ZMznLsC/images-3.jpg"
+    },
+    {
+        "courseName": "Tap Dance for All Ages",
+        "instructor": "Olivia Turner",
+        "description": "Get your tap shoes ready for a fun and rhythmic experience! Join our Tap Dance class suitable for all ages. Learn tap dance basics and routines.",
+        "schedule": "Saturdays, 11:00 AM - 1:00 PM",
+        "location": "Dance Studio F",
+        "fee": "$120 for the 4-week course",
+        "photoUrl": "https://i.ibb.co/74g2QHK/images-4.jpg"
+    },
+    {
+        "courseName": "Kids' Creative Dance",
+        "instructor": "Laura Anderson",
+        "description": "Let your kids' creativity shine in our Kids' Creative Dance class. This class is all about imagination, expression, and fun dance activities for children.",
+        "schedule": "Tuesdays and Thursdays, 3:00 PM - 5:00 PM",
+        "location": "Dance Studio G",
+        "fee": "$100 for the 4-week course",
+        "photoUrl": "https://i.ibb.co/3sQYWjd/images-5.jpg"
+    },
+    {
+        "courseName": "Breakdancing Mastery",
+        "instructor": "Jason Lee",
+        "description": "Become a breakdancing pro in our Mastery course. Learn power moves, freezes, and intricate footwork. Join our crew and showcase your skills at the Summer Camp talent show.",
+        "schedule": "Fridays, 2:00 PM - 4:00 PM",
+        "location": "Dance Studio H",
+        "fee": "$160 for the 4-week course",
+        "photoUrl": "https://i.ibb.co/SBG7jdp/images-6.jpg"
+    },
+    {
+        "courseName": "Classical Ballet Intensive",
+        "instructor": "Natalie White",
+        "description": "Embark on a journey into classical ballet. Our intensive program focuses on refining technique, developing strength, and mastering classical ballet movements.",
+        "schedule": "Mondays and Wednesdays, 3:00 PM - 5:00 PM",
+        "location": "Dance Studio I",
+        "fee": "$170 for the 4-week course",
+        "photoUrl": "https://i.ibb.co/rcHF2bD/images-7.jpg"
+    },
+    {
+        "courseName": "Street Dance Styles",
+        "instructor": "Alex Carter",
+        "description": "Explore various street dance styles in our dynamic class. Learn hip-hop, locking, and popping, and discover your own unique dance style.",
+        "schedule": "Tuesdays and Thursdays, 5:00 PM - 7:00 PM",
+        "location": "Dance Studio J",
+        "fee": "$140 for the 4-week course",
+        "photoUrl": "https://i.ibb.co/wrrgZy7/images-8.jpg"
+    },
+    {
+        "courseName": "Bollywood Dance Fusion",
+        "instructor": "Priya Sharma",
+        "description": "Experience the magic of Bollywood dance with our fusion class. Learn traditional Bollywood moves combined with contemporary dance elements.",
+        "schedule": "Saturdays, 2:00 PM - 4:00 PM",
+        "location": "Dance Studio K",
+        "fee": "$130 for the 4-week course",
+        "photoUrl": "https://i.ibb.co/QH8X315/images-9.jpg"
+    },
+    {
+        "courseName": "Irish Step Dancing",
+        "instructor": "Sean O'Reilly",
+        "description": "Learn the art of Irish Step Dancing in our exciting class. Practice traditional Irish dance moves and perform to lively Irish music.",
+        "schedule": "Thursdays, 4:00 PM - 6:00 PM",
+        "location": "Dance Studio L",
+        "fee": "$130 for the 4-week course",
+        "photoUrl": "https://i.ibb.co/SXn655L/images-10.jpg"
+    },
+    {
+        "courseName": "Ballroom Dance Basics",
+        "instructor": "Olga Petrov",
+        "description": "Discover the elegance of ballroom dance in our beginner's class. Learn dances like the waltz, foxtrot, and tango. Partners and singles welcome.",
+        "schedule": "Mondays and Wednesdays, 1:00 PM - 3:00 PM",
+        "location": "Dance Studio M",
+        "fee": "$140 for the 4-week course",
+        "photoUrl": "https://i.ibb.co/wRwGpL3/images-11.jpg"
+    },
+    {
+        "courseName": "African Dance Experience",
+        "instructor": "Kwame Akande",
+        "description": "Immerse yourself in the rhythms of Africa with our dance experience. Learn traditional African dance styles and enjoy the energy of African music.",
+        "schedule": "Tuesdays and Thursdays, 4:00 PM - 6:00 PM",
+        "location": "Dance Studio N",
+        "fee": "$150 for the 4-week course",
+        "photoUrl": "https://i.ibb.co/TYc4xMb/images-12.jpg"
+    },
+    {
+        "courseName": "Swing Dance Swingout",
+        "instructor": "Ella Davis",
+        "description": "Swing into action with our Swing Dance Swingout class. Learn the Lindy Hop and other swing dance styles. Get ready to swing, jive, and have a blast!",
+        "schedule": "Fridays, 6:00 PM - 8:00 PM",
+        "location": "Dance Studio O",
+        "fee": "$140 for the 4-week course",
+        "photoUrl": "https://i.ibb.co/Xj8FDLV/images-13.jpg"
+    },
+    {
+        "courseName": "Latin Ballroom Fusion",
+        "instructor": "Carlos Rodriguez",
+        "description": "Experience the passion of Latin ballroom dance in our fusion class. Learn dances like the cha-cha, rumba, and samba with a Latin twist.",
+        "schedule": "Saturdays, 4:00 PM - 6:00 PM",
+        "location": "Dance Studio P",
+        "fee": "$150 for the 4-week course",
+        "photoUrl": "https://i.ibb.co/sF07JKX/images-14.jpg"
+    },
+    {
+        "courseName": "Creative Dance for Teens",
+        "instructor": "Megan Wilson",
+        "description": "Teenagers can express themselves through creative dance. This class focuses on self-expression and developing unique dance routines.",
+        "schedule": "Mondays and Wednesdays, 4:00 PM - 6:00 PM",
+        "location": "Dance Studio Q",
+        "fee": "$120 for the 4-week course",
+        "photoUrl": "https://i.ibb.co/dBTHD1g/images.jpg"
+    },
+    {
+        "courseName": "Tango Tango Tango",
+        "instructor": "Juan Martinez",
+        "description": "Dive into the world of Argentine Tango with our Tango Tango Tango class. Learn the intricacies of the tango and its passionate dance style.",
+        "schedule": "Tuesdays and Thursdays, 7:00 PM - 9:00 PM",
+        "location": "Dance Studio R",
+        "fee": "$160 for the 4-week course",
+        "photoUrl": "https://i.ibb.co/J5t3RCR/maxresdefault.jpg"
+    },
+    {
+        "courseName": "Swan Lake Ballet",
+        "instructor": "Nina Petrova",
+        "description": "Experience the timeless beauty of Swan Lake in our ballet class. Learn and perform key scenes from this classic ballet masterpiece.",
+        "schedule": "Fridays, 10:00 AM - 12:00 PM",
+        "location": "Dance Studio S",
+        "fee": "$140 for the 4-week course",
+        "photoUrl": "https://i.ibb.co/8NzXHcN/mqdefault.jpg"
+    },
+    {
+        "courseName": "Latin Salsa Party",
+        "instructor": "Carlos and Maria",
+        "description": "Join our Latin Salsa Party and learn the hottest Latin dance styles. Get ready to dance to the rhythms of salsa, merengue, and more.",
+        "schedule": "Saturdays, 6:00 PM - 8:00 PM",
+        "location": "Dance Studio T",
+        "fee": "$130 for the 4-week course",
+        "photoUrl": "https://i.ibb.co/yBDXCGh/rs-w-600-h-300-cg-true.webp"
+    }
+]

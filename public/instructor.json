@@ -1,0 +1,181 @@
+[{
+        "courseName": "Contemporary Dance Basics",
+        "instructor": "John Smith",
+        "instructorImage": "https://i.ibb.co/XCcQhNc/1.png",
+        "courseImage": "https://i.ibb.co/hVBMgmw/download-1.jpg",
+        "availableCourses": 15,
+        "courseFee": 4500,
+        "description": "Learn the fundamentals of contemporary dance with our experienced instructor."
+    },
+    {
+        "courseName": "Hip-Hop Dance Workshop",
+        "instructor": "Emily Davis",
+        "instructorImage": "https://i.ibb.co/HDthxPT/2.png",
+        "courseImage": "https://i.ibb.co/jv82hzf/download.jpg",
+        "availableCourses": 12,
+        "courseFee": 5000,
+        "description": "Get grooving with our hip-hop dance workshop led by an experienced instructor."
+    },
+    {
+        "courseName": "Introduction to Ballet",
+        "instructor": "Michael Johnson",
+        "instructorImage": "https://i.ibb.co/VH0L60s/3.png",
+        "courseImage": "https://i.ibb.co/NrzJJF4/images-1.jpg",
+        "availableCourses": 10,
+        "courseFee": 4200,
+        "description": "Discover the elegance of ballet dance in this introductory course."
+    },
+    {
+        "courseName": "Salsa Dance Classes",
+        "instructor": "Sophia Rodriguez",
+        "instructorImage": "https://i.ibb.co/VYyCFBS/4.png",
+        "courseImage": "https://i.ibb.co/vcqDzH1/images-2.jpg",
+        "availableCourses": 18,
+        "courseFee": 3800,
+        "description": "Spice up your dance moves with our salsa dance classes led by a skilled instructor."
+    },
+    {
+        "courseName": "Breakdancing Mastery",
+        "instructor": "David Lee",
+        "instructorImage": "https://i.ibb.co/Zf5G4xF/5.png",
+        "courseImage": "https://i.ibb.co/ZMznLsC/images-3.jpg",
+        "availableCourses": 14,
+        "courseFee": 4500,
+        "description": "Master the art of breakdancing with the guidance of a professional instructor."
+    },
+    {
+        "courseName": "Jazz Dance Intensive",
+        "instructor": "Olivia Turner",
+        "instructorImage": "https://i.ibb.co/Wn1KBZZ/6.png",
+        "courseImage": "https://i.ibb.co/74g2QHK/images-4.jpg",
+        "availableCourses": 20,
+        "courseFee": 4900,
+        "description": "Immerse yourself in the world of jazz dance with our intensive course."
+    },
+    {
+        "courseName": "Tap Dance for Beginners",
+        "instructor": "Daniel White",
+        "instructorImage": "https://i.ibb.co/mRSNyGx/7.png",
+        "courseImage": "https://i.ibb.co/3sQYWjd/images-5.jpg",
+        "availableCourses": 16,
+        "courseFee": 4300,
+        "description": "Start your tap dancing journey with our beginner-friendly classes."
+    },
+    {
+        "courseName": "Flamenco Dance Experience",
+        "instructor": "Maria Martinez",
+        "instructorImage": "https://i.ibb.co/V9wNT73/8.png",
+        "courseImage": "https://i.ibb.co/SBG7jdp/images-6.jpg",
+        "availableCourses": 12,
+        "courseFee": 5200,
+        "description": "Experience the passion of flamenco dance in this immersive course."
+    },
+    {
+        "courseName": "Classic Ballroom Dancing",
+        "instructor": "William Brown",
+        "instructorImage": "https://i.ibb.co/nrPDzJm/9.png",
+        "courseImage": "https://i.ibb.co/rcHF2bD/images-7.jpg",
+        "availableCourses": 10,
+        "courseFee": 5100,
+        "description": "Learn classic ballroom dances with an expert instructor."
+    },
+    {
+        "courseName": "Swing Dance Essentials",
+        "instructor": "Jessica Adams",
+        "instructorImage": "https://i.ibb.co/DGd61sS/10.png",
+        "courseImage": "https://i.ibb.co/wrrgZy7/images-8.jpg",
+        "availableCourses": 14,
+        "courseFee": 4800,
+        "description": "Swing into the world of dance with our essential swing dance lessons."
+    },
+    {
+        "courseName": "Street Dance Fundamentals",
+        "instructor": "Robert Turner",
+        "instructorImage": "https://i.ibb.co/BGwnXpH/11.png",
+        "courseImage": "https://i.ibb.co/QH8X315/images-9.jpg",
+        "availableCourses": 15,
+        "courseFee": 4300,
+        "description": "Get street-smart with our street dance fundamentals classes."
+    },
+    {
+        "courseName": "Contemporary Jazz Fusion",
+        "instructor": "Sophie Lewis",
+        "instructorImage": "https://i.ibb.co/0sZBRQC/12.png",
+        "courseImage": "https://i.ibb.co/SXn655L/images-10.jpg",
+        "availableCourses": 16,
+        "courseFee": 4600,
+        "description": "Experience the fusion of contemporary and jazz dance styles in this course."
+    },
+    {
+        "courseName": "Latin Dance Party",
+        "instructor": "Carlos Rodriguez",
+        "instructorImage": "https://i.ibb.co/WfKy9wD/13.png",
+        "courseImage": "https://i.ibb.co/wRwGpL3/images-11.jpg",
+        "availableCourses": 18,
+        "courseFee": 4500,
+        "description": "Dance to the rhythm of Latin music in our lively dance party classes."
+    },
+    {
+        "courseName": "Irish Step Dance Journey",
+        "instructor": "Megan O'Sullivan",
+        "instructorImage": "https://i.ibb.co/553fy8h/14.png",
+        "courseImage": "https://i.ibb.co/TYc4xMb/images-12.jpg",
+        "availableCourses": 12,
+        "courseFee": 5100,
+        "description": "Embark on a journey through the tradition of Irish step dancing."
+    },
+    {
+        "courseName": "Modern Dance Exploration",
+        "instructor": "Richard Davis",
+        "instructorImage": "https://i.ibb.co/Ry7Kfwj/15.png",
+        "courseImage": "https://i.ibb.co/Xj8FDLV/images-13.jpg",
+        "availableCourses": 20,
+        "courseFee": 5200,
+        "description": "Explore contemporary modern dance forms in this immersive course."
+    },
+    {
+        "courseName": "Country Line Dance Fun",
+        "instructor": "Linda Smith",
+        "instructorImage": "https://i.ibb.co/Cs5rsvC/16.png",
+        "courseImage": "https://i.ibb.co/sF07JKX/images-14.jpg",
+        "availableCourses": 14,
+        "courseFee": 4800,
+        "description": "Have fun while learning country line dancing with our exciting classes."
+    },
+    {
+        "courseName": "Bollywood Dance Extravaganza",
+        "instructor": "Raj Kapoor",
+        "instructorImage": "https://i.ibb.co/jfzDhkP/17.png",
+        "courseImage": "https://i.ibb.co/dBTHD1g/images.jpg",
+        "availableCourses": 15,
+        "courseFee": 4900,
+        "description": "Immerse yourself in the colorful world of Bollywood dance in this extravaganza."
+    },
+    {
+        "courseName": "African Dance Rhythms",
+        "instructor": "Nala Simba",
+        "instructorImage": "https://i.ibb.co/f1YVd9B/18.png",
+        "courseImage": "https://i.ibb.co/J5t3RCR/maxresdefault.jpg",
+        "availableCourses": 16,
+        "courseFee": 4800,
+        "description": "Connect with the rhythmic traditions of African dance in this course."
+    },
+    {
+        "courseName": "Contemporary Ballet Fusion",
+        "instructor": "Isabella White",
+        "instructorImage": "https://i.ibb.co/j3y2Zpn/19.png",
+        "courseImage": "https://i.ibb.co/8NzXHcN/mqdefault.jpg",
+        "availableCourses": 12,
+        "courseFee": 5200,
+        "description": "Experience a fusion of contemporary and classical ballet in this unique course."
+    },
+    {
+        "courseName": "Latin Salsa Sensation",
+        "instructor": "Diego Hernandez",
+        "instructorImage": "https://i.ibb.co/drXS2x2/20.png",
+        "courseImage": "https://i.ibb.co/yBDXCGh/rs-w-600-h-300-cg-true.webp",
+        "availableCourses": 18,
+        "courseFee": 4700,
+        "description": "Savor the sensation of salsa dancing with a Latin twist in this course."
+    }
+]

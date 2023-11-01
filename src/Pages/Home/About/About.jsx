@@ -7,8 +7,8 @@ import { ImLocation2 } from "react-icons/im";
 
 const About = () => {
     return (
-        <div className='my-20'>
-            <div className="hero min-h-screen bg-white">
+        <div className='my-20 '>
+            <div className="hero min-h-screen w-auto mx-5 bg-white">
                 <div className="hero-content relative flex-col lg:flex-row">
                     <div className='absolute h-20 w-20 bg-amber-300 rounded-full animate-bounce sm:right-20 sm:top-20 md:right-16 md:top-28 lg:left-0 lg:top-40'></div>
                     <img src={abImg} className="lg:max-w-xl md:max-w-xs sm:max-w-xs " />
@@ -24,11 +24,11 @@ const About = () => {
                 </div>
             </div>
 
-            <div className='grid md:grid-cols-2 sm:grid-cols-1 gap-10 lg:grid-cols-3'>
-                <div className="rounded-lg p-5 w-72 ms-20 mt-24  hover:text-black text-amber-500 bg-white " >
+            <div className='w-auto mx-5 grid md:grid-cols-2 sm:grid-cols-1 gap-10 lg:grid-cols-3'>
+                <div className="rounded-lg p-5 w-64 ms-20 mt-24  hover:text-black text-amber-500 bg-white " >
                     <div className="relative">
-                        <div className="absolute -top-8 -left-28 overflow-hidden">
-                            <BiArch className='text-8xl'></BiArch>
+                        <div className="absolute -top-10 -left-16 overflow-hidden">
+                            <BiArch className='text-6xl'></BiArch>
                         </div>
                     </div>
                     <div className="mt-4">
@@ -40,9 +40,9 @@ const About = () => {
                     </div>
                 </div>
                 
-                <div className="rounded-lg p-5 w-72 ms-20 mt-24  hover:text-black text-amber-500 bg-white " >
+                <div className="rounded-lg p-5 w-64 ms-20 mt-24  hover:text-black text-amber-500 bg-white " >
                     <div className="relative">
-                        <div className="absolute -top-8 -left-28 overflow-hidden">
+                        <div className="absolute -top-10 -left-20 overflow-hidden">
                             
                             <GiLightSabers className='text-8xl hover:animate-spin'></GiLightSabers>
                         </div>
@@ -56,9 +56,9 @@ const About = () => {
                     </div>
                 </div>
                 
-                <div className="rounded-lg p-5 w-72 ms-20 mt-24  hover:text-black text-amber-500 bg-white " >
+                <div className="rounded-lg p-5 w-64 ms-20 mt-24  hover:text-black text-amber-500 bg-white " >
                     <div className="relative">
-                        <div className="absolute -top-8 -left-24 overflow-hidden">
+                        <div className="absolute -top-10 -left-16 overflow-hidden">
                             <ImLocation2 className='text-8xl'></ImLocation2>
                         </div>
                     </div>

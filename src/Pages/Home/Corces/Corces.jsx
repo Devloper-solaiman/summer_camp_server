@@ -1,68 +1,24 @@
-import imgcrd from '../../../assets/slider/slider2.png'
+import { Link } from 'react-router-dom';
+import useCorce from '../../../hooks/useCorce';
+import CorceCard from './CorceCard';
 const Corces = () => {
+    const [corce] = useCorce()
+
     return (
         <div>
             <h1 className="text-6xl my-10 font-bold text-center">your fevaret dance corce</h1>
-
-            <div className='grid lg:grid-cols-3 md:grid-cols-2 gap-5 my-14'>
-            <div className="card w-96 bg-base-100 shadow-xl">
-                <figure><img src={imgcrd} alt="Shoes" /></figure>
-                <div className="card-body">
-                    <h2 className="card-title">
-                        Shoes!
-                        <div className="badge badge-secondary">NEW</div>
-                    </h2>
-                    <p>If a dog chews shoes whose shoes does he choose?</p>
-                    <div className="card-actions justify-end">
-                        <div className="badge badge-outline">Fashion</div>
-                        <div className="badge badge-outline">Products</div>
-                    </div>
-                </div>
+                <h1 className='text-3xl text-center mb-10'>total corces {corce.length}</h1>
+            <div className='grid lg:grid-cols-3 md:grid-cols-2 gap-10 mx-10'>
+                {corce.splice(0, 6).map(item =><CorceCard
+                 key={item._id}
+                 item={item}
+                 ></CorceCard>
+                    )}
             </div>
-
-            <div className="card w-96 bg-base-100 shadow-xl">
-                <figure><img src={imgcrd} alt="Shoes" /></figure>
-                <div className="card-body">
-                    <h2 className="card-title">
-                        Shoes!
-                        <div className="badge badge-secondary">NEW</div>
-                    </h2>
-                    <p>If a dog chews shoes whose shoes does he choose?</p>
-                    <div className="card-actions justify-end">
-                        <div className="badge badge-outline">Fashion</div>
-                        <div className="badge badge-outline">Products</div>
-                    </div>
-                </div>
-            </div>
-            <div className="card w-96 bg-base-100 shadow-xl">
-                <figure><img src={imgcrd} alt="Shoes" /></figure>
-                <div className="card-body">
-                    <h2 className="card-title">
-                        Shoes!
-                        <div className="badge badge-secondary">NEW</div>
-                    </h2>
-                    <p>If a dog chews shoes whose shoes does he choose?</p>
-                    <div className="card-actions justify-end">
-                        <div className="badge badge-outline">Fashion</div>
-                        <div className="badge badge-outline">Products</div>
-                    </div>
-                </div>
-            </div>
-            <div className="card w-96 bg-base-100 shadow-xl">
-                <figure><img src={imgcrd} alt="Shoes" /></figure>
-                <div className="card-body">
-                    <h2 className="card-title">
-                        Shoes!
-                        <div className="badge badge-secondary">NEW</div>
-                    </h2>
-                    <p>If a dog chews shoes whose shoes does he choose?</p>
-                    <div className="card-actions justify-end">
-                        <div className="badge badge-outline">Fashion</div>
-                        <div className="badge badge-outline">Products</div>
-                    </div>
-                </div>
-            </div>
-            </div>
+            
+<div className='grid me-10'>
+<Link to='/allcorce' className='btn btn-outline btn-xs justify-self-end'>more...</Link>
+    </div>            
         </div>
     );
 };
